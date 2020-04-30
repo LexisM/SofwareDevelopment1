@@ -1,2 +1,6 @@
 # SofwareDevelopment1
-My first GitHub Repository
+Lexis Funes
+GMIT 
+Coputing and digital media.
+Project
+8 exercises in java programing
